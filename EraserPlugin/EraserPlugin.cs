@@ -54,7 +54,7 @@ namespace EraserPlugin
         /// Прошлое значение мыши.
         /// </summary>
         private MouseEventArgs mOld;
-        
+
         /// <summary>
         /// Флаг стирания.
         /// </summary>
